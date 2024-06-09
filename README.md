@@ -56,11 +56,6 @@ I am a creative, communicative, and friendly individual who excels in teamwork a
 - **Phone**: +94 78 300 6972 | +94 7746357
 - **GitHub**: [DDN53](https://github.com/DDN53)
 - **LinkedIn**: [Dinuka Munasinghe](https://www.linkedin.com/in/dinuka-munasinghe)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duesacrifice69&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duesacrifice69&layout=compact&show_icons=true&theme=radical)
 
-[![wakatime](https://wakatime.com/badge/user/018af927-df27-43d7-8f57-d7829ded732a.svg)](https://wakatime.com/@DueSacrifice69)
-
-[![github-views](https://komarev.com/ghpvc/?username=duesacrifice69)](https://github.com/duesacrifice69)
-
-<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDN53&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDN53&layout=compact&show_icons=true&theme=radical
