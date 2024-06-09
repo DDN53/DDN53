@@ -57,4 +57,4 @@ I am a creative, communicative, and friendly individual who excels in teamwork a
 - **GitHub**: [DDN53](https://github.com/DDN53)
 - **LinkedIn**: [Dinuka Munasinghe](https://www.linkedin.com/in/dinuka-munasinghe)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDN53&show_icons=true&theme=radical)
+
